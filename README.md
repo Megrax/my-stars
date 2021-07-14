@@ -213,6 +213,7 @@
 
 ## Python 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
@@ -261,6 +262,7 @@
 
 ## TypeScript 
 
+- [ecomfe/zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement
 - [egoist/hakka](https://github.com/egoist/hakka) - ALPHA. A reddit-like online community (but less noisy).
 - [songhn233/Simple-Interpreter-Typescript](https://github.com/songhn233/Simple-Interpreter-Typescript) - Let's Build A Simple Interpreter (Typescript Implement)

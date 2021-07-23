@@ -46,6 +46,7 @@
 
 ## CSS 
 
+- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [FeedsPub/badge](https://github.com/FeedsPub/badge) - Embed a badge on your website to let others follow your site on Feeds Pub and count followers
@@ -94,6 +95,7 @@
 
 ## JavaScript 
 
+- [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
@@ -269,6 +271,8 @@
 
 ## TypeScript 
 
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs :shield: :badger: :mage:
 - [ecomfe/zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement

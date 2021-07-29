@@ -235,6 +235,7 @@
 
 ## Rust 
 
+- [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [chinedufn/psd](https://github.com/chinedufn/psd) - A Rust API for parsing and working with PSD files.
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust

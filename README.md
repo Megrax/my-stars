@@ -162,7 +162,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1663-Stars](https://github.com/RealPeha/This-Repo-Has-1663-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -237,6 +237,7 @@
 
 ## Python 
 
+- [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - AI拟声: 克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -328,7 +329,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
-- [akirarika/kurimudb](https://github.com/akirarika/kurimudb) - ⚓ 足够简单的前端存储解决方案
+- [kurimudb/kurimudb](https://github.com/kurimudb/kurimudb) - ⚓ 足够简单的前端存储解决方案
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology

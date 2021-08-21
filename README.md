@@ -295,6 +295,7 @@
 
 ## TypeScript 
 
+- [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
 - [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - A webpack plugin to remove your build folder(s) before building

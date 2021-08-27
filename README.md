@@ -296,6 +296,7 @@
 
 ## TypeScript 
 
+- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching

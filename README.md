@@ -99,6 +99,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [maisano/react-router-transition](https://github.com/maisano/react-router-transition) - painless transitions built for react-router, powered by react-motion
 - [LeetCode-OpenSource/hire](https://github.com/LeetCode-OpenSource/hire) - Join LeetCode
 - [75team/w3c](https://github.com/75team/w3c) - 360 W3C工作组

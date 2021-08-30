@@ -317,7 +317,7 @@
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、并上报服务端的SDK
-- [hua1995116/react-resume-site](https://github.com/hua1995116/react-resume-site) - 木及简历|一款用 `Markdown`就能写出好看简历(resume)的在线工具。
+- [hua1995116/react-resume-site](https://github.com/hua1995116/react-resume-site) - 木及简历，一款markdown的在线简历工具。
 - [loweisz/generate-avatar](https://github.com/loweisz/generate-avatar) - Generate your 100% fingerprinted example avatar from id, email, username etc.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.

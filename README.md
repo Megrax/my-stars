@@ -99,6 +99,7 @@
 
 ## JavaScript 
 
+- [EtherDream/web2img](https://github.com/EtherDream/web2img) - bundle web files into a single image
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [maisano/react-router-transition](https://github.com/maisano/react-router-transition) - painless transitions built for react-router, powered by react-motion
@@ -299,6 +300,7 @@
 
 ## TypeScript 
 
+- [okikio/bundle](https://github.com/okikio/bundle) - A small tool for checking the size of js bundles.
 - [unix/views](https://github.com/unix/views) - show your page views without server.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components

@@ -99,6 +99,7 @@
 
 ## JavaScript 
 
+- [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - bundle web files into a single image
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -300,6 +301,7 @@
 
 ## TypeScript 
 
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [okikio/bundle](https://github.com/okikio/bundle) - A small tool for checking the size of js bundles.
 - [unix/views](https://github.com/unix/views) - show your page views without server.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
@@ -313,7 +315,7 @@
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs :shield: :badger: :mage:
 - [ecomfe/zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts
-- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement
+- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [egoist/hakka](https://github.com/egoist/hakka) - ALPHA. A reddit-like online community (but less noisy).
 - [songhn233/Simple-Interpreter-Typescript](https://github.com/songhn233/Simple-Interpreter-Typescript) - Let's Build A Simple Interpreter (Typescript Implement)
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.

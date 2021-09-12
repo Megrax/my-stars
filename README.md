@@ -302,13 +302,16 @@
 
 ## TypeScript 
 
+- [songhn233/milkdown-plugin-shiki](https://github.com/songhn233/milkdown-plugin-shiki) - Shiki plugin for milkdown. Add support for shiki highlight.
+- [slidevjs/slidev-vscode](https://github.com/slidevjs/slidev-vscode) - VS Code extension for Slidev
+- [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [okikio/bundle](https://github.com/okikio/bundle) - A small tool for checking the size of js bundles.
 - [unix/views](https://github.com/unix/views) - show your page views without server.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor.
+- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
 - [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - A webpack plugin to remove your build folder(s) before building
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.

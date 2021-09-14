@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
@@ -101,6 +102,7 @@
 
 ## JavaScript 
 
+- [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - bundle web files into a single image
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
@@ -288,6 +290,7 @@
 
 ## Shell 
 
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) - 🔎 互联网内推信息（社招、校招、实习）
@@ -303,7 +306,8 @@
 
 ## TypeScript 
 
-- [songhn233/milkdown-plugin-shiki](https://github.com/songhn233/milkdown-plugin-shiki) - Shiki plugin for milkdown. Add support for shiki highlight.
+- [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
+- [songhn233/milkdown-plugin-shiki](https://github.com/songhn233/milkdown-plugin-shiki) - 🌈 Shiki plugin for milkdown. Add support for shiki highlight.
 - [slidevjs/slidev-vscode](https://github.com/slidevjs/slidev-vscode) - VS Code extension for Slidev
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
@@ -323,7 +327,7 @@
 - [ecomfe/zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [egoist/hakka](https://github.com/egoist/hakka) - ALPHA. A reddit-like online community (but less noisy).
-- [songhn233/Simple-Interpreter-Typescript](https://github.com/songhn233/Simple-Interpreter-Typescript) - Let's Build A Simple Interpreter (Typescript Implement)
+- [songhn233/Simple-Interpreter-Typescript](https://github.com/songhn233/Simple-Interpreter-Typescript) - 🤖 Let's Build A Simple Interpreter (Typescript Implement).
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.

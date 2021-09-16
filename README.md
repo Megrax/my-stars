@@ -102,6 +102,7 @@
 
 ## JavaScript 
 
+- [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
 - [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
@@ -206,6 +207,7 @@
 
 ## Others 
 
+- [zTrix/sata-license](https://github.com/zTrix/sata-license) - The Star And Thank Author License(SATA License)
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话

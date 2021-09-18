@@ -317,7 +317,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [okikio/bundle](https://github.com/okikio/bundle) - A small tool for checking the size of js bundles.
+- [okikio/bundle](https://github.com/okikio/bundle) - A quick and easy way to bundle your projects, minify and see it's gzip size, all locally on your browser.
 - [unix/views](https://github.com/unix/views) - show your page views without server.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components

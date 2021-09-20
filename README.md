@@ -142,7 +142,7 @@
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.
 - [hihayk/scale](https://github.com/hihayk/scale) - Color scale generator
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
-- [pcdotfan/taro-plugin-tailwind](https://github.com/pcdotfan/taro-plugin-tailwind) - Taro 接入 tailwindcss 插件
+- [pcdotfan/taro-plugin-tailwind](https://github.com/pcdotfan/taro-plugin-tailwind) - Taro 接入 windicss (tailwindcss) 插件
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps

@@ -105,6 +105,8 @@
 
 ## JavaScript 
 
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [pacocoursey/writer](https://github.com/pacocoursey/writer) - plain text editor
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -258,6 +260,8 @@
 
 ## Python 
 
+- [fei-hdu/ca-gan](https://github.com/fei-hdu/ca-gan) - CA-GAN: Composition-Aided GANs, IEEE TCYB, 2020
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!

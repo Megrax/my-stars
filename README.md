@@ -216,6 +216,7 @@
 
 ## Others 
 
+- [peoplesing1832/StereotypedWriting](https://github.com/peoplesing1832/StereotypedWriting) - 八股文
 - [zTrix/sata-license](https://github.com/zTrix/sata-license) - The Star And Thank Author License(SATA License)
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?

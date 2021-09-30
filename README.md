@@ -71,6 +71,7 @@
 
 ## EJS 
 
+- [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze) - ⛵ A simple, responsive Hexo theme
 - [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
 
 ## Go 
@@ -321,6 +322,8 @@
 
 ## TypeScript 
 
+- [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [youzan/show-me-the-code](https://github.com/youzan/show-me-the-code) - 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾

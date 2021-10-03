@@ -8,7 +8,6 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
-  - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [EJS](#ejs)
   - [Go](#go)
@@ -59,10 +58,6 @@
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [smartping/smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
-
-## CoffeeScript 
-
-- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 
 ## Dart 
 
@@ -227,6 +222,7 @@
 - [songhn233/posts-archive](https://github.com/songhn233/posts-archive) - 📚 All my posts archive
 - [vicky002/1000_Projects](https://github.com/vicky002/1000_Projects) - :sunglasses: Mega List of practical projects that one can solve in any programming language!
 - [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.

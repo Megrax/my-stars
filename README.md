@@ -103,6 +103,7 @@
 
 ## JavaScript 
 
+- [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:

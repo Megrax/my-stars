@@ -373,7 +373,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
-- [kurimudb/kurimudb](https://github.com/kurimudb/kurimudb) - ⚓ 足够简单的前端存储解决方案
+- [akirarika/kurimudb](https://github.com/akirarika/kurimudb) - ⚓ 足够简单的前端存储解决方案
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology

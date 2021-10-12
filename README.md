@@ -85,6 +85,7 @@
 
 ## HTML 
 
+- [fei-hdu/courses](https://github.com/fei-hdu/courses) - 课程PPT：数字图像处理，计算机视觉，人工智能导论，机器学习，深度学习
 - [jxnblk/colorable](https://github.com/jxnblk/colorable) - Color combination contrast tester
 - [WICG/is-input-pending](https://github.com/WICG/is-input-pending) - 
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
@@ -305,6 +306,7 @@
 
 ## Shell 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.

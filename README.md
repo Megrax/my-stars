@@ -328,6 +328,7 @@
 
 ## TypeScript 
 
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site

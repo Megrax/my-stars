@@ -50,7 +50,7 @@
 ## CSS 
 
 - [mengkunsoft/lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍 让我帮你百度一下？Let Me Baidu That For You
-- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Win 11 in React 💻🌈⚡
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS

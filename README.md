@@ -161,7 +161,6 @@
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [spritejs/spritejs](https://github.com/spritejs/spritejs) - A cross platform high-performance graphics system.
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
-- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
 - [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
 - [avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [euvl/vue-notification](https://github.com/euvl/vue-notification) - :icecream: Vue.js 2 library for showing notifications
@@ -386,6 +385,7 @@
 - [windicss/svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - A Svelte Preprocessor to compile windicss at build time.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
+- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)

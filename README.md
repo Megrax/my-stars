@@ -100,7 +100,7 @@
 
 - [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [skb1129/react-native-change-icon](https://github.com/skb1129/react-native-change-icon) - Change your application icon programmatically for React Native apps
-- [yanus171/Handy-News-Reader](https://github.com/yanus171/Handy-News-Reader) - Flym Fork RSS Reader is a light and modern Android feed reader, based on Flym News Reader
+- [yanus171/Handy-News-Reader](https://github.com/yanus171/Handy-News-Reader) - Handy News Reader is a light and modern Android feed reader, based on Flym News Reader
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## JavaScript 
@@ -212,6 +212,7 @@
 
 ## Objective-C 
 
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 
 ## Objective-C++ 

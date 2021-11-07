@@ -105,6 +105,7 @@
 
 ## JavaScript 
 
+- [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [Suwings/MCSManager](https://github.com/Suwings/MCSManager) - 全中文，轻量级，开箱即用，多实例和支持 Docker 的 Minecraft 服务端管理面板
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together

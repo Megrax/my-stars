@@ -239,7 +239,7 @@
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe) - PasteMe 是一个无需注册的文本分享平台，可以为文本设置密码和阅后即焚，支持二维码分享和各种一键复制，最大化释放你的双手，针对代码提供了额外的高亮功能。主站点已全站 CDN 以及 GZIP 传输，有着好看的前端（嘤嘤嘤）和优秀的访问速度。
+- [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe) - PasteMe 是一个无需注册的文本分享平台（未登陆状态下只能使用阅后即焚），可以为文本设置密码和阅后即焚，支持二维码分享和各种一键复制，针对代码提供了额外的高亮功能。
 - [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [justjavac/unicode-encoding-error-table](https://github.com/justjavac/unicode-encoding-error-table) - Unicode 中文乱码速查表

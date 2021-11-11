@@ -337,6 +337,7 @@
 
 ## TypeScript 
 
+- [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
 - [xufei/type-chess](https://github.com/xufei/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library

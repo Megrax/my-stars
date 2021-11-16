@@ -342,6 +342,7 @@
 
 ## TypeScript 
 
+- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [rpearce/image-zoom](https://github.com/rpearce/image-zoom) - 🔎 Medium.com style image zoom for React 🔍
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps

@@ -192,7 +192,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -289,6 +289,7 @@
 
 ## Rust 
 
+- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
@@ -348,7 +349,7 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [react-native-checkbox/react-native-checkbox](https://github.com/react-native-checkbox/react-native-checkbox) - Checkbox component for React Native
 - [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
-- [xufei/type-chess](https://github.com/xufei/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
+- [chinese-chess-everywhere/type-chess](https://github.com/chinese-chess-everywhere/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library

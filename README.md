@@ -71,6 +71,8 @@
 
 ## Go 
 
+- [asoul-video/acao](https://github.com/asoul-video/acao) - 🦙 acao（阿草）, the tool man for data scraping of https://asoul.video/.
+- [asoul-video/asoul-video](https://github.com/asoul-video/asoul-video) - 🎬  The source code of https://asoul.video
 - [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box

@@ -32,6 +32,7 @@
 
 ## C 
 
+- [lemire/fastbase64](https://github.com/lemire/fastbase64) - SIMD-accelerated base64 codecs
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -355,6 +356,7 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [legends-killer/niko-gateway](https://github.com/legends-killer/niko-gateway) - A lightweight gateway service written by node.js
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.

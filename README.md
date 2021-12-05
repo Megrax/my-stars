@@ -110,6 +110,8 @@
 
 ## JavaScript 
 
+- [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
+- [LionC/persistent-cache](https://github.com/LionC/persistent-cache) - Simple persistent cache for Node to store arbitrary data. Can also be used as a very simple data storage.
 - [dependency-check-team/dependency-check](https://github.com/dependency-check-team/dependency-check) - checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
@@ -356,6 +358,7 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [legends-killer/niko-gateway](https://github.com/legends-killer/niko-gateway) - A lightweight gateway service written by node.js
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)

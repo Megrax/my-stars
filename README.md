@@ -360,6 +360,7 @@
 
 ## TypeScript 
 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [legends-killer/niko-gateway](https://github.com/legends-killer/niko-gateway) - A lightweight gateway service written by node.js

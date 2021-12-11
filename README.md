@@ -112,6 +112,7 @@
 
 ## JavaScript 
 
+- [Xav1erSue/Newjw_HDU_AutoChoose](https://github.com/Xav1erSue/Newjw_HDU_AutoChoose) - 杭电新版教务系统自动学评教 油猴脚本
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 - [LionC/persistent-cache](https://github.com/LionC/persistent-cache) - Simple persistent cache for Node to store arbitrary data. Can also be used as a very simple data storage.
@@ -457,7 +458,7 @@
 - [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) - 一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 
 ## Vue 
 

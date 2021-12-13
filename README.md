@@ -112,6 +112,8 @@
 
 ## JavaScript 
 
+- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
+- [buuing/right-menu](https://github.com/buuing/right-menu) - 📜 @right-menu 是一个使用 TypeScript 开发的右键菜单插件, 🏆 可以在 JS / TS / Vue / React 等多端框架使用, 🦄 支持多级菜单 / 异步渲染 / 骨架Loading / 自适应主题 / mac黑夜模式
 - [Xav1erSue/Newjw_HDU_AutoChoose](https://github.com/Xav1erSue/Newjw_HDU_AutoChoose) - 杭电新版教务系统自动学评教 油猴脚本
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -342,6 +344,7 @@
 
 ## Shell 
 
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -367,6 +370,7 @@
 
 ## TypeScript 
 
+- [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [neargle/crx-scouter](https://github.com/neargle/crx-scouter) - 🕵️‍♂️  🔎  🕸️ 一款可以探测Chrome插件的前端工具~ → blog.neargle.com/crx-scouter/
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams

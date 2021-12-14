@@ -16,6 +16,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Objective-C](#objective-c)
@@ -226,6 +227,10 @@
 
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 
+## MATLAB 
+
+- [Lisandro79/BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie) - Betting Strategy to Beat the Bookies at Football Games
+
 ## Makefile 
 
 - [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
@@ -247,7 +252,7 @@
 ## Others 
 
 - [iiiiiii1/douban-imdb-api](https://github.com/iiiiiii1/douban-imdb-api) - 一个基于豆瓣、IMDB、烂番茄评分的电影电视剧双语(中英)数据api接口
-- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 来自中国的支持远程办公的公司
+- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [peoplesing1832/StereotypedWriting](https://github.com/peoplesing1832/StereotypedWriting) - 八股文
 - [zTrix/sata-license](https://github.com/zTrix/sata-license) - The Star And Thank Author License(SATA License)

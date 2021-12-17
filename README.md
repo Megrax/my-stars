@@ -210,7 +210,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1663-Stars](https://github.com/RealPeha/This-Repo-Has-1663-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -317,6 +317,7 @@
 
 ## Rust 
 
+- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -473,7 +474,7 @@
 
 ## Vue 
 
-- [Suwings/MCSManager-UI](https://github.com/Suwings/MCSManager-UI) - 适用于 MCSManager 9.0 版本的 UI 界面
+- [MCSManager/UI](https://github.com/MCSManager/UI) - 适用于 MCSManager 9.0 版本的 UI 界面
 - [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
 - [alvarosaburido/slidev-theme-penguin](https://github.com/alvarosaburido/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev

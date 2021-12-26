@@ -136,7 +136,7 @@
 - [lawnstarter/react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select) - 🔽 A Picker component for React Native which emulates the native &lt;select&gt; interfaces for iOS and Android
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-- [Suwings/MCSManager](https://github.com/Suwings/MCSManager) - 全中文，轻量级，开箱即用，多实例和支持 Docker 的 Minecraft 服务端管理面板
+- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - 全中文，轻量级，开箱即用，多实例和支持 Docker 的 Minecraft 服务端管理面板
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.

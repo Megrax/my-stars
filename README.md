@@ -115,6 +115,7 @@
 
 ## JavaScript 
 
+- [javierbyte/emoji-to-scale](https://github.com/javierbyte/emoji-to-scale) - Your favorite emojis. To scale.
 - [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
 - [jameslawler/react-native-rss-parser](https://github.com/jameslawler/react-native-rss-parser) - React Native compatible package to parse RSS feeds
 - [PengJiyuan/b-validate](https://github.com/PengJiyuan/b-validate) - :eyes: Tiny and powerful Javascript type validate.

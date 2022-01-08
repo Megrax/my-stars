@@ -120,6 +120,7 @@
 
 ## JavaScript 
 
+- [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [evanw/source-map-visualization](https://github.com/evanw/source-map-visualization) - A simple visualization of source map data
 - [javierbyte/emoji-to-scale](https://github.com/javierbyte/emoji-to-scale) - Your favorite emojis. To scale.
@@ -417,6 +418,7 @@
 
 ## TypeScript 
 
+- [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [privatenumber/git-detect-case-change](https://github.com/privatenumber/git-detect-case-change) - Script to detect file name case changes in a Git repository
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications) - Cross-platform Toast component for React Native, supports Android, IOS and Web

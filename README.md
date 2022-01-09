@@ -419,7 +419,7 @@
 ## TypeScript 
 
 - [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-- [privatenumber/git-detect-case-change](https://github.com/privatenumber/git-detect-case-change) - Script to detect file name case changes in a Git repository
+- [privatenumber/git-detect-case-change](https://github.com/privatenumber/git-detect-case-change) - 🤖 Script to detect file name case changes in a Git repository
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications) - Cross-platform Toast component for React Native, supports Android, IOS and Web
 - [Tencent/tdesign-react](https://github.com/Tencent/tdesign-react) - A React UI components lib for TDesign.
@@ -523,6 +523,7 @@
 
 ## Vue 
 
+- [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
 - [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
 - [MCSManager/UI](https://github.com/MCSManager/UI) - 适用于 MCSManager 9.0 版本的 UI 界面
 - [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。

@@ -95,10 +95,12 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
 ## HTML 
 
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [fei-hdu/courses](https://github.com/fei-hdu/courses) - 课件：数字图像处理，计算机视觉，人工智能导论，机器学习，深度学习
 - [jxnblk/colorable](https://github.com/jxnblk/colorable) - Color combination contrast tester
 - [WICG/is-input-pending](https://github.com/WICG/is-input-pending) - 
@@ -121,6 +123,8 @@
 
 ## JavaScript 
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [theajack/disable-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right-click and browser menu
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
@@ -232,7 +236,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -353,6 +357,7 @@
 
 ## Rust 
 
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -470,7 +475,7 @@
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - A webpack plugin to remove your build folder(s) before building
 - [fingerprintjs/external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)

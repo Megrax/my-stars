@@ -115,6 +115,7 @@
 
 ## Java 
 
+- [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
 - [MozillaReality/FirefoxReality](https://github.com/MozillaReality/FirefoxReality) - A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
 - [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [skb1129/react-native-change-icon](https://github.com/skb1129/react-native-change-icon) - Change your application icon programmatically for React Native apps
@@ -336,6 +337,7 @@
 
 ## Python 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [LAMDA-NJU/Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1)

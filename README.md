@@ -117,6 +117,7 @@
 
 ## Java 
 
+- [soot-oss/soot](https://github.com/soot-oss/soot) - Soot - A Java optimization framework
 - [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
 - [MozillaReality/FirefoxReality](https://github.com/MozillaReality/FirefoxReality) - A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
 - [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
@@ -285,6 +286,7 @@
 
 ## Others 
 
+- [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis. 静态程序分析入门教程。
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [d2forum/16th](https://github.com/d2forum/16th) - 第十六届D2前端技术论坛「精心」
@@ -550,7 +552,7 @@
 
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
 - [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
-- [MCSManager/UI](https://github.com/MCSManager/UI) - 适用于 MCSManager 9.0 版本的 UI 界面
+- [MCSManager/UI](https://github.com/MCSManager/UI) - 适用于 MCSManager 9 版本的 UI 界面
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.

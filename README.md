@@ -289,7 +289,7 @@
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [d2forum/16th](https://github.com/d2forum/16th) - 第十六届D2前端技术论坛「精心」
-- [NaturalSelectionLabs/RSS3](https://github.com/NaturalSelectionLabs/RSS3) - Derived from the best out of RSS, RSS3 is an open protocol designed for all our cyber existence in the era of Web 3.0.
+- [NaturalSelectionLabs/RSS3-Protocol](https://github.com/NaturalSelectionLabs/RSS3-Protocol) - Derived from the best out of RSS, RSS3 is an open protocol designed for all our cyber existence in the era of Web 3.0.
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [hduhelp/backend_guide](https://github.com/hduhelp/backend_guide) - 杭电助手官方后端指南（Go）
 - [i5ting/rust-fe](https://github.com/i5ting/rust-fe) - Rust是未来前端基础设施

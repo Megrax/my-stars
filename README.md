@@ -130,6 +130,8 @@
 
 ## JavaScript 
 
+- [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [webpack/webpack-cli](https://github.com/webpack/webpack-cli) - Webpack's Command Line Interface
 - [webpack-contrib/css-loader](https://github.com/webpack-contrib/css-loader) - CSS Loader
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [csstree/csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations

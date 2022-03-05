@@ -49,7 +49,6 @@
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
-- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -131,6 +130,7 @@
 
 ## JavaScript 
 
+- [webpack/tapable](https://github.com/webpack/tapable) - Just a little module for plugins.
 - [kitcambridge/evil.js](https://github.com/kitcambridge/evil.js) - 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -166,6 +166,7 @@
 - [ronnieXiaoLH/interview](https://github.com/ronnieXiaoLH/interview) - 一些关于面试的总结
 - [entwicklerstube/babel-plugin-root-import](https://github.com/entwicklerstube/babel-plugin-root-import) - Add the opportunity to import modules by the root path
 - [1c7/Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
+- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [antoniopresto/react-native-local-mongodb](https://github.com/antoniopresto/react-native-local-mongodb) - react-native local mongodb storage.
 - [Intellicode/eslint-plugin-react-native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native plugin for ESLint
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
@@ -198,7 +199,6 @@
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [maisano/react-router-transition](https://github.com/maisano/react-router-transition) - painless transitions built for react-router, powered by react-motion
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [LeetCode-OpenSource/hire](https://github.com/LeetCode-OpenSource/hire) - Join LeetCode
 - [75team/w3c](https://github.com/75team/w3c) - 360 W3C工作组
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
@@ -306,6 +306,7 @@
 - [reactwg/react-native-new-architecture](https://github.com/reactwg/react-native-new-architecture) - Workgroup for the New React Native Architecture
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis. 静态程序分析入门教程。
+- [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [d2forum/16th](https://github.com/d2forum/16th) - 第十六届D2前端技术论坛「精心」
@@ -369,6 +370,7 @@
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [fei-hdu/ca-gan](https://github.com/fei-hdu/ca-gan) - CA-GAN: Composition-Aided GANs, IEEE TCYB, 2020
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -473,7 +475,6 @@
 - [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [privatenumber/git-detect-case-change](https://github.com/privatenumber/git-detect-case-change) - 🤖 Script to detect file name case changes in a Git repository
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications) - Cross-platform Toast component for React Native, supports Android, IOS and Web

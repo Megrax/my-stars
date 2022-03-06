@@ -104,6 +104,7 @@
 
 ## HTML 
 
+- [cedricss/reactive.how](https://github.com/cedricss/reactive.how) - Learn reactive programming with animated cards.
 - [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - 在 DOM 上打乱文字，而非视觉上。
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
@@ -121,6 +122,7 @@
 
 ## Java 
 
+- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
 - [soot-oss/soot](https://github.com/soot-oss/soot) - Soot - A Java optimization framework
 - [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
 - [MozillaReality/FirefoxReality](https://github.com/MozillaReality/FirefoxReality) - A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
@@ -435,6 +437,7 @@
 
 ## Shell 
 
+- [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
 - [Masterchiefm/Aria2Dash](https://github.com/Masterchiefm/Aria2Dash) - 快速部署Aria2的脚本。具有剩余容量显示监控及显示功能。本脚本会一同安装文件管理器
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -451,6 +454,7 @@
 
 ## Swift 
 
+- [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
@@ -464,6 +468,9 @@
 
 ## TypeScript 
 
+- [teambition/teambition-sdk](https://github.com/teambition/teambition-sdk) - Isomorphic JavaScript SDK for Teambition APIs
+- [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+- [hashrock/deno-avatar](https://github.com/hashrock/deno-avatar) - Generate random deno avatar
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.

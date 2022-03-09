@@ -125,6 +125,7 @@
 
 ## Java 
 
+- [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - The purpose of this repository is to help contributors find GSoC organizations through their technology stack.
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
 - [soot-oss/soot](https://github.com/soot-oss/soot) - Soot - A Java optimization framework
 - [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
@@ -231,7 +232,6 @@
 - [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转换为 RSS 格式输出
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [Huxpro/js-module-7day](https://github.com/Huxpro/js-module-7day) - Slides: JavaScript Modularization Journey
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with Svelte
@@ -558,6 +558,7 @@
 - [loweisz/generate-avatar](https://github.com/loweisz/generate-avatar) - Generate your 100% fingerprinted example avatar from id, email, username etc.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [sandersn/mini-typescript](https://github.com/sandersn/mini-typescript) - A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.

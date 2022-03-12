@@ -537,7 +537,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [okikio/bundle](https://github.com/okikio/bundle) - An online tool to quickly bundle & minify your projects, while viewing the gzipped bundle size, all running locally on your browser.
+- [okikio/bundle](https://github.com/okikio/bundle) - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.
 - [unix/views](https://github.com/unix/views) - show your page views without server.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components

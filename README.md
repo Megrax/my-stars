@@ -119,7 +119,6 @@
 - [tc39/proposal-top-level-await](https://github.com/tc39/proposal-top-level-await) - top-level `await` proposal for ECMAScript (stage 4)
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
-- [creativetimofficial/soft-ui-dashboard](https://github.com/creativetimofficial/soft-ui-dashboard) - Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard
 - [CyC2018/Text-Typesetting](https://github.com/CyC2018/Text-Typesetting) - :art: 中英混排文档在线排版工具
 - [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) - ⭐️ Markdown 简历模版
 
@@ -447,6 +446,7 @@
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [phodal/dx](https://github.com/phodal/dx) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book
+- [creativetimofficial/soft-ui-dashboard](https://github.com/creativetimofficial/soft-ui-dashboard) - Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
 
 ## Shell 

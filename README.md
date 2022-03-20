@@ -31,6 +31,7 @@
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [Vim script](#vim-script)
   - [Vue](#vue)
 
 ## C 
@@ -451,6 +452,7 @@
 
 ## Shell 
 
+- [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的代理软件 EasyConnect 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
 - [Masterchiefm/Aria2Dash](https://github.com/Masterchiefm/Aria2Dash) - 快速部署Aria2的脚本。具有剩余容量显示监控及显示功能。本脚本会一同安装文件管理器
@@ -483,6 +485,7 @@
 
 ## TypeScript 
 
+- [splinetool/react-spline](https://github.com/splinetool/react-spline) - React component for Spline scenes.
 - [bytedance/syllepsis](https://github.com/bytedance/syllepsis) - Syllepsis is an out-of-the-box rich text editor.
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
@@ -607,6 +610,10 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+
+## Vim script 
+
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 ## Vue 
 

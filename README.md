@@ -172,7 +172,6 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right-click and browser menu
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
-- [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [evanw/source-map-visualization](https://github.com/evanw/source-map-visualization) - A simple visualization of source map data
 - [javierbyte/emoji-to-scale](https://github.com/javierbyte/emoji-to-scale) - Your favorite emojis. To scale.
@@ -530,6 +529,7 @@
 - [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [privatenumber/git-detect-case-change](https://github.com/privatenumber/git-detect-case-change) - 🤖 Script to detect file name case changes in a Git repository
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications) - Cross-platform Toast component for React Native, supports Android, IOS and Web

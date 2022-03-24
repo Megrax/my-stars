@@ -10,6 +10,7 @@
   - [CSS](#css)
   - [Dart](#dart)
   - [EJS](#ejs)
+  - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -86,6 +87,10 @@
 - [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze) - ⛵ A responsive, modern Hexo theme
 - [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
 
+## GLSL 
+
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+
 ## Go 
 
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务
@@ -108,6 +113,7 @@
 
 ## HTML 
 
+- [zineland/2d2d](https://github.com/zineland/2d2d) - To-D Magazine
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [knadh/hugo-ink](https://github.com/knadh/hugo-ink) - Crisp, minimal personal website and blog theme for Hugo
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
@@ -193,7 +199,6 @@
 - [LionC/persistent-cache](https://github.com/LionC/persistent-cache) - Simple persistent cache for Node to store arbitrary data. Can also be used as a very simple data storage.
 - [dependency-check-team/dependency-check](https://github.com/dependency-check-team/dependency-check) - checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
-- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
 - [lawnstarter/react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select) - 🔽 A Picker component for React Native which emulates the native &lt;select&gt; interfaces for iOS and Android
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
@@ -276,7 +281,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -418,6 +423,7 @@
 
 ## Rust 
 
+- [zineland/zine](https://github.com/zineland/zine) - Zine - an simple and opinionated tool to build your own magazine.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore

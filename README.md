@@ -427,6 +427,7 @@
 
 ## Rust 
 
+- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'

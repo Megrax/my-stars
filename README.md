@@ -114,7 +114,7 @@
 
 ## HTML 
 
-- [zineland/2d2d](https://github.com/zineland/2d2d) - To-D Magazine
+- [zineland/2d2d](https://github.com/zineland/2d2d) - TO-D Magazine
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [knadh/hugo-ink](https://github.com/knadh/hugo-ink) - Crisp, minimal personal website and blog theme for Hugo
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.

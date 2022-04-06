@@ -146,6 +146,8 @@
 
 ## JavaScript 
 
+- [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Missing ECMAScript module utils for Node.js
+- [preactjs/compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.

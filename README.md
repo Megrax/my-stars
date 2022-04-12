@@ -34,6 +34,7 @@
   - [Shell](#shell)
   - [Svelte](#svelte)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
@@ -530,6 +531,10 @@
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
 - [miniLV/MNWeibo](https://github.com/miniLV/MNWeibo) - Swift5 + MVVM + 文艺复兴微博(纯代码 + 纯Swift)，可作为第一个上手的Swift项目.
+
+## TeX 
+
+- [LeoAlex0/LaTeX-HDU-Bachelor-Thesis](https://github.com/LeoAlex0/LaTeX-HDU-Bachelor-Thesis) - 杭州电子科技大学本科毕业设计的 LaTeX 模板 (修改自： https://github.com/m13253/LaTeX-HDU-Bachelor-Thesis）
 
 ## TypeScript 
 

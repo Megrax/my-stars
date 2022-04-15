@@ -147,6 +147,9 @@
 
 ## JavaScript 
 
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [pvoznyuk/react-live-clock](https://github.com/pvoznyuk/react-live-clock) - React clock with time-zones
 - [jstejada/react-typist](https://github.com/jstejada/react-typist) - Typing animations with React
 - [sindresorhus/p-wait-for](https://github.com/sindresorhus/p-wait-for) - Wait for a condition to be true
@@ -295,7 +298,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1682-Stars](https://github.com/RealPeha/This-Repo-Has-1682-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1683-Stars](https://github.com/RealPeha/This-Repo-Has-1683-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -411,6 +414,7 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Li4n0/hugo_encryptor](https://github.com/Li4n0/hugo_encryptor) - A tools for encrypting hugo posts
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat

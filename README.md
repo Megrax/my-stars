@@ -200,7 +200,6 @@
 - [javierbyte/emoji-to-scale](https://github.com/javierbyte/emoji-to-scale) - Your favorite emojis. To scale.
 - [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
 - [jameslawler/react-native-rss-parser](https://github.com/jameslawler/react-native-rss-parser) - React Native compatible package to parse RSS feeds
-- [PengJiyuan/b-validate](https://github.com/PengJiyuan/b-validate) - :eyes: Tiny and powerful Javascript type validate.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ronnieXiaoLH/interview](https://github.com/ronnieXiaoLH/interview) - 一些关于面试的总结
 - [entwicklerstube/babel-plugin-root-import](https://github.com/entwicklerstube/babel-plugin-root-import) - Add the opportunity to import modules by the root path
@@ -353,6 +352,7 @@
 
 ## Others 
 
+- [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering) - 一本小书《带你入门前端工程》
@@ -575,6 +575,7 @@
 - [privatenumber/git-detect-case-change](https://github.com/privatenumber/git-detect-case-change) - 🤖 Script to detect file name case changes in a Git repository
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications) - Cross-platform Toast component for React Native, supports Android, IOS and Web
+- [PengJiyuan/b-validate](https://github.com/PengJiyuan/b-validate) - :eyes: Tiny and powerful Javascript type validate.
 - [Tencent/tdesign-react](https://github.com/Tencent/tdesign-react) - A React UI components lib for TDesign.
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.

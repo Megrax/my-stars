@@ -547,6 +547,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with &lt; 1kb JS
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [thieryw/gitlanding](https://github.com/thieryw/gitlanding) - ✒️   React components for creating landingpages
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages

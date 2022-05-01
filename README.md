@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件。
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
@@ -115,8 +116,10 @@
 
 ## HTML 
 
+- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [zineland/2d2d](https://github.com/zineland/2d2d) - TO-D Magazine
+- [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - The purpose of this repository is to help contributors find GSoC organizations through their technology stack.
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [knadh/hugo-ink](https://github.com/knadh/hugo-ink) - Crisp, minimal personal website and blog theme for Hugo
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
@@ -138,7 +141,6 @@
 ## Java 
 
 - [pascal-lab/Tai-e-assignments](https://github.com/pascal-lab/Tai-e-assignments) - Tai-e assignments for static program analysis
-- [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - The purpose of this repository is to help contributors find GSoC organizations through their technology stack.
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
 - [soot-oss/soot](https://github.com/soot-oss/soot) - Soot - A Java optimization framework
 - [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
@@ -149,6 +151,7 @@
 
 ## JavaScript 
 
+- [samselikoff/ios-apple-music-clone](https://github.com/samselikoff/ios-apple-music-clone) - 
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -515,6 +518,7 @@
 
 ## Shell 
 
+- [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的代理软件 EasyConnect 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
@@ -554,6 +558,9 @@
 
 ## TypeScript 
 
+- [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
+- [devsapp/fc](https://github.com/devsapp/fc) - 阿里云函数计算（FC）组件
 - [justjavac/chart_as_a_service](https://github.com/justjavac/chart_as_a_service) - Chart as a Service
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community

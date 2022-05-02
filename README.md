@@ -558,6 +558,8 @@
 
 ## TypeScript 
 
+- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
+- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [devsapp/fc](https://github.com/devsapp/fc) - 阿里云函数计算（FC）组件
@@ -616,7 +618,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
-- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [rpearce/image-zoom](https://github.com/rpearce/image-zoom) - 🔎 Medium.com style image zoom for React 🔍
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [react-native-checkbox/react-native-checkbox](https://github.com/react-native-checkbox/react-native-checkbox) - Checkbox component for React Native
@@ -712,6 +714,7 @@
 
 ## Vue 
 
+- [mujahidfa/vue-boring-avatars](https://github.com/mujahidfa/vue-boring-avatars) - A Vue.js port of Boring Avatars, a JS library that generates custom, SVG-based avatars from any username and color palette.
 - [advplyr/ett-charts](https://github.com/advplyr/ett-charts) - Eleven VR Table Tennis dashboard
 - [antfu/handle](https://github.com/antfu/handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站

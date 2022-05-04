@@ -102,7 +102,7 @@
 - [asoul-sig/acao](https://github.com/asoul-sig/acao) - 🦙 阿草，数据爬取工具人 / acao, the tool man for data scraping of https://asoul.video/.
 - [asoul-sig/asoul-video](https://github.com/asoul-sig/asoul-video) - 🎬  https://asoul.video/ 网站前后端源码
 - [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv) - A course to build distributed key-value service based on TiKV model
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
 - [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
@@ -536,6 +536,7 @@
 
 ## Svelte 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [grischaerbe/threlte](https://github.com/grischaerbe/threlte) - A three.js component library for Svelte.
 - [Rich-Harris/svelte-cubed](https://github.com/Rich-Harris/svelte-cubed) - Svelte ❤️ Three
 

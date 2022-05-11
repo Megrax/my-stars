@@ -42,6 +42,7 @@
 
 ## C 
 
+- [evanw/thinscript](https://github.com/evanw/thinscript) - A low-level programming language inspired by TypeScript
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [lemire/fastbase64](https://github.com/lemire/fastbase64) - SIMD-accelerated base64 codecs
@@ -150,6 +151,8 @@
 
 ## JavaScript 
 
+- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
@@ -287,7 +290,6 @@
 - [spritejs/spritejs](https://github.com/spritejs/spritejs) - A cross platform high-performance graphics system.
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
 - [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
-- [avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [euvl/vue-notification](https://github.com/euvl/vue-notification) - :icecream: Vue.js 2 library for showing notifications
 - [entropic-dev/entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
@@ -307,7 +309,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1705-Stars](https://github.com/RealPeha/This-Repo-Has-1705-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1707-Stars](https://github.com/RealPeha/This-Repo-Has-1707-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -708,6 +710,7 @@
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
+- [avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [chromaui/chromatic-cli](https://github.com/chromaui/chromatic-cli) - Chromatic CLI: `npx chromatic`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code

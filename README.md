@@ -73,7 +73,7 @@
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [zizhengwu/daft-auto-spacing](https://github.com/zizhengwu/daft-auto-spacing) - 在汉字与西文之间插入一个半角空格的工具
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
-- [tmplink/TMP_tmpUI](https://github.com/tmplink/TMP_tmpUI) - Made for storage.
+- [tmplink/tmplink_webapp](https://github.com/tmplink/tmplink_webapp) - Made for storage.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [mengkunsoft/lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍 让我帮你百度一下？Let Me Baidu That For You
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -156,6 +156,7 @@
 
 ## JavaScript 
 
+- [GoogleChromeLabs/estimator.dev](https://github.com/GoogleChromeLabs/estimator.dev) - 🧮 Calculate the size and performance impact of switching to modern JavaScript syntax.
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - 🔨 Notes on how to build side projects
@@ -778,6 +779,7 @@
 
 ## Vue 
 
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [myth984/wechat-report](https://github.com/myth984/wechat-report) - 微信聊天记录年度报告
 - [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [mujahidfa/vue-boring-avatars](https://github.com/mujahidfa/vue-boring-avatars) - A Vue.js port of Boring Avatars, a JS library that generates custom, SVG-based avatars from any username and color palette.

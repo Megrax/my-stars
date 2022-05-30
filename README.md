@@ -156,6 +156,8 @@
 
 ## JavaScript 
 
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [GoogleChromeLabs/estimator.dev](https://github.com/GoogleChromeLabs/estimator.dev) - 🧮 Calculate the size and performance impact of switching to modern JavaScript syntax.
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
@@ -600,6 +602,7 @@
 
 ## TypeScript 
 
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
@@ -705,7 +708,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [okikio/bundle](https://github.com/okikio/bundle) - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.
+- [okikio/bundlejs](https://github.com/okikio/bundlejs) - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.
 - [unix/views](https://github.com/unix/views) - show your page views without server.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components

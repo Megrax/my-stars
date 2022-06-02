@@ -663,7 +663,7 @@
 - [hashrock/deno-avatar](https://github.com/hashrock/deno-avatar) - Generate random deno avatar
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
-- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [hduhelp/blog.hduhelp.com](https://github.com/hduhelp/blog.hduhelp.com) - 
 - [usememos/memos](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
 - [samdenty/console-feed](https://github.com/samdenty/console-feed) - Captures console.log's into a React Component 🔥

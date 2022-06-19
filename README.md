@@ -110,7 +110,7 @@
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com. SQL 审核查询平台
-- [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件。
+- [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [asoul-sig/acao](https://github.com/asoul-sig/acao) - 🦙 阿草，数据爬取工具人 / acao, the tool man for data scraping of https://asoul.video/.
@@ -337,7 +337,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1711-Stars](https://github.com/RealPeha/This-Repo-Has-1711-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1712-Stars](https://github.com/RealPeha/This-Repo-Has-1712-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -782,7 +782,7 @@
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [YunYouJun/cocos-creator-joystick](https://github.com/YunYouJun/cocos-creator-joystick) - 🕹 Cocos Creator Joystick Demo 虚拟摇杆
-- [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
+- [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [fz6m/console-ban](https://github.com/fz6m/console-ban) - Detect F12 open console, protect web static resources, support redirect, rewrite, callback strategies.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)

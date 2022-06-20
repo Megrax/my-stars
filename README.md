@@ -620,6 +620,8 @@
 
 ## TypeScript 
 
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
+- [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge

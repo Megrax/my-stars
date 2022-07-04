@@ -500,6 +500,7 @@
 
 ## Ruby 
 
+- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 
 ## Rust 
@@ -621,6 +622,7 @@
 
 ## TypeScript 
 
+- [boojack/sticky-notes](https://github.com/boojack/sticky-notes) - 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.

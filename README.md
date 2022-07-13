@@ -160,6 +160,7 @@
 
 ## Java 
 
+- [InvoluteHell/ThreeKeysProgramming](https://github.com/InvoluteHell/ThreeKeysProgramming) - 三键成码 | Three Keys code dancing
 - [pascal-lab/Tai-e-assignments](https://github.com/pascal-lab/Tai-e-assignments) - Tai-e assignments for static program analysis
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
 - [soot-oss/soot](https://github.com/soot-oss/soot) - Soot - A Java optimization framework
@@ -171,6 +172,9 @@
 
 ## JavaScript 
 
+- [rollup/plugins](https://github.com/rollup/plugins) - 🍣  The one-stop shop for official Rollup plugins
+- [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+- [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Watch video together on any platform / 一起看视频，兼容所有平台
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [ElliotNB/observable-slim](https://github.com/ElliotNB/observable-slim) - Observable Slim is a singleton that utilizes ES6 Proxies to observe changes made to an object and any nested children of that object. It is intended to assist with state management and one-way data bi
@@ -508,7 +512,6 @@
 
 ## Ruby 
 
-- [InvoluteHell/ThreeKeysProgramming](https://github.com/InvoluteHell/ThreeKeysProgramming) - 三键成码 | Three Keys code dancing
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 
@@ -602,6 +605,7 @@
 
 ## Svelte 
 
+- [rohitpotato/svelte-command-palette](https://github.com/rohitpotato/svelte-command-palette) - A simple command palette for svelte
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [grischaerbe/threlte](https://github.com/grischaerbe/threlte) - A three.js component library for Svelte.
@@ -627,10 +631,13 @@
 
 ## TeX 
 
+- [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
 - [LeoAlex0/LaTeX-HDU-Bachelor-Thesis](https://github.com/LeoAlex0/LaTeX-HDU-Bachelor-Thesis) - 杭州电子科技大学本科毕业设计的 LaTeX 模板 (修改自： https://github.com/m13253/LaTeX-HDU-Bachelor-Thesis）
 
 ## TypeScript 
 
+- [zheeeng/styled-css-base](https://github.com/zheeeng/styled-css-base) - Lightweight basic CSS style sheets.
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [arco-design/arco-design-mobile](https://github.com/arco-design/arco-design-mobile) - React mobile UI components library based on Arco Design
@@ -674,7 +681,7 @@
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [github/time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with &lt; 1kb JS
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with ~ 1kb JS
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [thieryw/gitlanding](https://github.com/thieryw/gitlanding) - ✒️   React components for creating landingpages

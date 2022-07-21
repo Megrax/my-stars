@@ -108,10 +108,11 @@
 
 ## Go 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
@@ -163,7 +164,7 @@
 
 - [InvoluteHell/ThreeKeysProgramming](https://github.com/InvoluteHell/ThreeKeysProgramming) - 三键成码 | Three Keys code dancing
 - [pascal-lab/Tai-e-assignments](https://github.com/pascal-lab/Tai-e-assignments) - Tai-e assignments for static program analysis
-- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
+- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [soot-oss/soot](https://github.com/soot-oss/soot) - Soot - A Java optimization framework
 - [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
 - [MozillaReality/FirefoxReality](https://github.com/MozillaReality/FirefoxReality) - A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
@@ -348,7 +349,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1744-Stars](https://github.com/RealPeha/This-Repo-Has-1744-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1748-Stars](https://github.com/RealPeha/This-Repo-Has-1748-Stars) - Yes, it's true :purple_heart:
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -607,7 +608,7 @@
 
 ## Svelte 
 
-- [rohitpotato/svelte-command-palette](https://github.com/rohitpotato/svelte-command-palette) - A simple command palette for svelte
+- [rohitpotato/svelte-command-palette](https://github.com/rohitpotato/svelte-command-palette) - Dead simple command palette for svelte
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [threlte/threlte](https://github.com/threlte/threlte) - A three.js component library for Svelte.
@@ -646,7 +647,7 @@
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [arco-design/arco-design-mobile](https://github.com/arco-design/arco-design-mobile) - React mobile UI components library based on Arco Design
-- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 与React18源码最接近的极简实现
+- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [boojack/sticky-notes](https://github.com/boojack/sticky-notes) - 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
@@ -832,6 +833,7 @@
 
 ## Vue 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [lewkamtao/Lew-UI](https://github.com/lewkamtao/Lew-UI) - A beautiful component library based on vue3
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The ultimate AWS RDS and Google Cloud SQL instance pricing comparison sheet
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性

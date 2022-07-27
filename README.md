@@ -174,6 +174,7 @@
 
 ## JavaScript 
 
+- [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [rollup/plugins](https://github.com/rollup/plugins) - 🍣  The one-stop shop for official Rollup plugins
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
@@ -839,7 +840,7 @@
 
 ## Vue 
 
-- [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - An oreo generater.
+- [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - 🍪 An oreo generater.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [lewkamtao/Lew-UI](https://github.com/lewkamtao/Lew-UI) - A beautiful component library based on vue3
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The ultimate AWS RDS and Google Cloud SQL instance pricing comparison sheet

@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [timqian/modsoul](https://github.com/timqian/modsoul) - 🔨🔨莫得灵魂乐团
 - [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -133,6 +134,7 @@
 
 ## HTML 
 
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [airingursb/canvas](https://github.com/airingursb/canvas) - 🖌《Canvas：Draw on the Web》
 - [markmead/hyperui](https://github.com/markmead/hyperui) - 🐳 Free open source Tailwind CSS components for marketing and ecommece websites, as well as application UI
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
@@ -643,7 +645,7 @@
 
 ## TypeScript 
 
-- [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's own type system
+- [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
@@ -752,7 +754,7 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [react-native-checkbox/react-native-checkbox](https://github.com/react-native-checkbox/react-native-checkbox) - Checkbox component for React Native
 - [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
-- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - 全中文，分布式，高扩展性，开箱即用，支持 Docker，兼容 Minecraft 和其他部分游戏的服务端程序管理面板
+- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - 全中文，分布式，高扩展性，开箱即用，支持 Docker，兼容 Minecraft 和所有控制台程序的服务端程序管理面板
 - [chinese-chess-everywhere/type-chess](https://github.com/chinese-chess-everywhere/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design

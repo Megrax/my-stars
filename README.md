@@ -142,7 +142,7 @@
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-- [zineland/2d2d](https://github.com/zineland/2d2d) - TO-D Magazine
+- [zineland/2d2d](https://github.com/zineland/2d2d) - TO-D Magazine https://2d2d.io
 - [erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse) - 帮助新手参与开源
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [knadh/hugo-ink](https://github.com/knadh/hugo-ink) - Crisp, minimal personal website and blog theme for Hugo
@@ -447,7 +447,7 @@
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [peoplesing1832/StereotypedWriting](https://github.com/peoplesing1832/StereotypedWriting) - 八股文
 - [zTrix/sata-license](https://github.com/zTrix/sata-license) - The Star And Thank Author License(SATA License)
-- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-codetop
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
@@ -649,6 +649,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [Fatpandac/DocSearch](https://github.com/Fatpandac/DocSearch) - A Raycast extension
 - [bytedance/guide](https://github.com/bytedance/guide) - A new feature guide component by react 🧭
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB

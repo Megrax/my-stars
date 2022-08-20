@@ -111,6 +111,7 @@
 
 ## Go 
 
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
@@ -196,7 +197,6 @@
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Watch video together on any platform / 一起看视频，兼容所有平台
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [ElliotNB/observable-slim](https://github.com/ElliotNB/observable-slim) - Observable Slim is a singleton that utilizes ES6 Proxies to observe changes made to an object and any nested children of that object. It is intended to assist with state management and one-way data bi
 - [crabbly/Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -504,6 +504,7 @@
 
 ## Python 
 
+- [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
@@ -689,6 +690,7 @@
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [arco-design/arco-design-mobile](https://github.com/arco-design/arco-design-mobile) - React mobile UI components library based on Arco Design
+- [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [boojack/sticky-notes](https://github.com/boojack/sticky-notes) - 
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI

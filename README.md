@@ -151,6 +151,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [airingursb/canvas](https://github.com/airingursb/canvas) - 🖌《Canvas：Draw on the Web》
 - [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳
+- [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -889,7 +890,6 @@
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The ultimate AWS RDS and Google Cloud SQL instance pricing comparison sheet
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [myth984/wechat-report](https://github.com/myth984/wechat-report) - 微信聊天记录年度报告
-- [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [mujahidfa/vue-boring-avatars](https://github.com/mujahidfa/vue-boring-avatars) - A Vue.js port of Boring Avatars, a JS library that generates custom, SVG-based avatars from any username and color palette.
 - [advplyr/ett-charts](https://github.com/advplyr/ett-charts) - Eleven VR Table Tennis dashboard
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站

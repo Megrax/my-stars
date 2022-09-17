@@ -686,7 +686,7 @@
 
 ## TypeScript 
 
-- [sanyuan0704/island](https://github.com/sanyuan0704/island) - Vite & MDX powered static site generator.
+- [sanyuan0704/island](https://github.com/sanyuan0704/island) - Vite & Mdx powered static site generator.Base on islands architecture
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [microsoft/powerbi-client-vue-js](https://github.com/microsoft/powerbi-client-vue-js) - Power BI Vue.js component. This library lets you embed Power BI report, dashboard, dashboard tile, report visual, or Q&A in your Vue.js application.
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
@@ -790,7 +790,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [privatenumber/git-detect-case-change](https://github.com/privatenumber/git-detect-case-change) - 🤖 Script to detect file name case changes in a Git repository
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [arnnis/react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications) - Toast component for React Native, supports Android, iOS and Web
 - [PengJiyuan/b-validate](https://github.com/PengJiyuan/b-validate) - :eyes: Tiny and powerful Javascript type validate.
 - [Tencent/tdesign-react](https://github.com/Tencent/tdesign-react) - A React UI components lib for TDesign.

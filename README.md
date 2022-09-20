@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen) - 骚话生成器生成器
@@ -154,7 +155,7 @@
 
 - [joway/hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang) - A black-white theme for Hugo.
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
-- [guangzhengli/hugo-theme-ladder](https://github.com/guangzhengli/hugo-theme-ladder) - A fast, clean Hugo theme
+- [guangzhengli/hugo-theme-ladder](https://github.com/guangzhengli/hugo-theme-ladder) - A fast, clean Hugo theme | 一个简单而优雅的 hugo 主题
 - [pazams/go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) - A comparison between Go and Javascript
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [airingursb/canvas](https://github.com/airingursb/canvas) - 🖌《Canvas：Draw on the Web》
@@ -199,6 +200,7 @@
 
 ## JavaScript 
 
+- [tanhauhau/mini-svelte](https://github.com/tanhauhau/mini-svelte) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
@@ -406,7 +408,7 @@
 
 ## Kotlin 
 
-- [bytedance/appshark](https://github.com/bytedance/appshark) - 
+- [bytedance/appshark](https://github.com/bytedance/appshark) - Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
 - [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo) - 来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 

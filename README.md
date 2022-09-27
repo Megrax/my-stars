@@ -203,6 +203,7 @@
 
 ## JavaScript 
 
+- [rustq/colorid.js](https://github.com/rustq/colorid.js) - The unique 4-colors-ID string generator in JavaScript 🌈 一款基于 4 种颜色来表示身份的 JavaScript 随机 ID 生成器
 - [tanhauhau/mini-svelte](https://github.com/tanhauhau/mini-svelte) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
@@ -928,7 +929,7 @@
 - [advplyr/ett-charts](https://github.com/advplyr/ett-charts) - Eleven VR Table Tennis dashboard
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [MCSManager/UI](https://github.com/MCSManager/UI) - MCSManager UI
+- [MCSManager/UI](https://github.com/MCSManager/UI) - Provides a Web UI for MCSManager to display data, terminals, tables, i18n, settings, etc.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.

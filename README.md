@@ -203,6 +203,7 @@
 
 ## JavaScript 
 
+- [trotto/browser-extension](https://github.com/trotto/browser-extension) - A browser extension that makes the "go/" hostname work for any go links implementation. Built for easy self-hosting.
 - [rustq/colorid.js](https://github.com/rustq/colorid.js) - The unique 4-colors-ID string generator in JavaScript 🌈 一款基于 4 种颜色来表示身份的 JavaScript 随机 ID 生成器
 - [tanhauhau/mini-svelte](https://github.com/tanhauhau/mini-svelte) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -710,7 +711,7 @@
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React and MJML
+- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 20,000 supported emoji mashups as part of Google's Emoji Kitche
 - [segmentio/analytics-next](https://github.com/segmentio/analytics-next) - The next version of AJS
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -908,7 +909,7 @@
 - [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) - 一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Vim Script 
 

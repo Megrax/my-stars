@@ -23,6 +23,7 @@
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Nim](#nim)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -446,6 +447,10 @@
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
+
+## Nim 
+
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
 ## Objective-C 
 

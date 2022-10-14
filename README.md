@@ -714,7 +714,7 @@
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
-- [sanyuan0704/island.js](https://github.com/sanyuan0704/island.js) - 📝 Vite & Mdx powered static site generator.Base on islands architecture
+- [sanyuan0704/island.js](https://github.com/sanyuan0704/island.js) - 📝 Vite & MDX powered static site generator.Base on islands architecture
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [microsoft/powerbi-client-vue-js](https://github.com/microsoft/powerbi-client-vue-js) - Power BI Vue.js component. This library lets you embed Power BI report, dashboard, dashboard tile, report visual, or Q&A in your Vue.js application.
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle

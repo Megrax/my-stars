@@ -206,6 +206,7 @@
 
 ## JavaScript 
 
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [dai-shi/will-this-react-global-state-work-in-concurrent-rendering](https://github.com/dai-shi/will-this-react-global-state-work-in-concurrent-rendering) - Test tearing and branching in React concurrent rendering
 - [trotto/browser-extension](https://github.com/trotto/browser-extension) - A browser extension that makes the "go/" hostname work for any go links implementation. Built for easy self-hosting.
@@ -580,7 +581,7 @@
 
 ## Rust 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 来打包网页 Mac App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
 - [lz1998/ricq](https://github.com/lz1998/ricq) - Rust 高性能 QQ 协议（原RS-QQ）。Linux-musl运行内存1.6MB
 - [swc-project/plugins](https://github.com/swc-project/plugins) - Plugins for swc, written in rust
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
@@ -709,6 +710,7 @@
 
 ## TypeScript 
 
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix) - Utilities and variants for styling Radix state
 - [koishijs/novelai-bot](https://github.com/koishijs/novelai-bot) - Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG

@@ -140,7 +140,6 @@
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) - 
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [vercel/turbo](https://github.com/vercel/turbo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [asoul-sig/acao](https://github.com/asoul-sig/acao) - 🦙 阿草，数据爬取工具人 / acao, the tool man for data scraping of https://asoul.video/.
 - [asoul-sig/asoul-video](https://github.com/asoul-sig/asoul-video) - 🎬  https://asoul.video/ 网站前后端源码
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model
@@ -206,6 +205,7 @@
 
 ## JavaScript 
 
+- [Trott/slug](https://github.com/Trott/slug) - slugifies even utf-8 chars!
 - [simov/slugify](https://github.com/simov/slugify) - Slugifies a string
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -616,6 +616,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
 - [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust

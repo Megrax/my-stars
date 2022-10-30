@@ -716,6 +716,7 @@
 
 ## TypeScript 
 
+- [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [webpro/knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries

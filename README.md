@@ -298,7 +298,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
-- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [ShunCai/QZoneExport](https://github.com/ShunCai/QZoneExport) - QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [Simingchen/Functional-Light-JS](https://github.com/Simingchen/Functional-Light-JS) - JavaScript轻量级函数式编程（中文翻译）
@@ -716,6 +715,7 @@
 
 ## TypeScript 
 
+- [ddiu8081/fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker) - 🤣 Generate your own Fluent Emojis!
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
 - [webpro/knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project
@@ -823,10 +823,11 @@
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [hduhelp/blog.hduhelp.com](https://github.com/hduhelp/blog.hduhelp.com) - 
-- [usememos/memos](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub for knowledge management and collaboration.
 - [samdenty/console-feed](https://github.com/samdenty/console-feed) - Captures console.log's into a React Component 🔥
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
+- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right-click and browser menu

@@ -260,7 +260,7 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [samselikoff/ios-apple-music-clone](https://github.com/samselikoff/ios-apple-music-clone) - 
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
-- [github/time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
+- [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [pvoznyuk/react-live-clock](https://github.com/pvoznyuk/react-live-clock) - React clock with time-zones

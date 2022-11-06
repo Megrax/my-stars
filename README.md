@@ -548,6 +548,12 @@
 
 ## Python 
 
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
+- [jina-ai/jcloud](https://github.com/jina-ai/jcloud) - Simplify deploying and managing Jina projects on Jina Cloud
+- [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
+- [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented finetuning for better embeddings on neural search
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
 - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting

@@ -158,6 +158,7 @@
 
 ## HTML 
 
+- [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [CSS-Tricks/coding-fonts](https://github.com/CSS-Tricks/coding-fonts) - https://coding-fonts.css-tricks.com/
 - [joway/hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang) - A black-white theme for Hugo.
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.

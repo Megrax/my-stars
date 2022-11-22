@@ -113,6 +113,7 @@
 ## EJS 
 
 - [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze) - ⛵ A responsive, modern Hexo theme
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
 
 ## Go 
@@ -340,7 +341,6 @@
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [pacocoursey/writer](https://github.com/pacocoursey/writer) - plain text editor
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
 - [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()

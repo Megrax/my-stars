@@ -270,7 +270,7 @@
 - [pvoznyuk/react-live-clock](https://github.com/pvoznyuk/react-live-clock) - React clock with time-zones
 - [jstejada/react-typist](https://github.com/jstejada/react-typist) - Typing animations with React
 - [sindresorhus/p-wait-for](https://github.com/sindresorhus/p-wait-for) - Wait for a condition to be true
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Missing ECMAScript module utils for Node.js

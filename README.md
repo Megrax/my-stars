@@ -148,7 +148,7 @@
 - [asoul-sig/acao](https://github.com/asoul-sig/acao) - 🦙 阿草，数据爬取工具人 / acao, the tool man for data scraping of https://asoul.video/.
 - [asoul-sig/asoul-video](https://github.com/asoul-sig/asoul-video) - 🎬  https://asoul.video/ 网站前后端源码
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
@@ -280,7 +280,6 @@
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-- [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Missing ECMAScript module utils for Node.js
 - [preactjs/compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
@@ -831,6 +830,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [thieryw/gitlanding](https://github.com/thieryw/gitlanding) - ✒️   React components for creating landingpages
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
+- [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Missing ECMAScript module utils for Node.js
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [splinetool/react-spline](https://github.com/splinetool/react-spline) - React component for Spline scenes.
 - [bytedance/syllepsis](https://github.com/bytedance/syllepsis) - Syllepsis is an out-of-the-box rich text editor.

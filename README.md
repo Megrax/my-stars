@@ -976,6 +976,7 @@
 
 ## Vue 
 
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo) - 🍪 An oreo generater.

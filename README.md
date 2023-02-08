@@ -661,7 +661,7 @@
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
-- [dx-angel/dx-book](https://github.com/dx-angel/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
+- [phodal/dx-book](https://github.com/phodal/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 - [bradfrost/atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book
 - [creativetimofficial/soft-ui-dashboard](https://github.com/creativetimofficial/soft-ui-dashboard) - Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
@@ -807,7 +807,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate, boost your comment system with docker. 注重隐私保护和定制化的评论系统, 支持 docker 部署。
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+- [github-star-history-1/star-history](https://github.com/github-star-history-1/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [satyarohith/sift](https://github.com/satyarohith/sift) - Sift is a routing and utility library for Deno Deploy.
@@ -818,7 +818,7 @@
 - [ericclemmons/click-to-component](https://github.com/ericclemmons/click-to-component) - Option+Click React components in your browser to instantly open the source in VS Code
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
-- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
+- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ Explore high-performance tooling for Vue
 - [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [devsapp/fc](https://github.com/devsapp/fc) - 阿里云函数计算（FC）组件
@@ -848,7 +848,7 @@
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [hduhelp/blog.hduhelp.com](https://github.com/hduhelp/blog.hduhelp.com) - 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [samdenty/console-feed](https://github.com/samdenty/console-feed) - Captures console.log's into a React Component 🔥
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js

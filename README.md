@@ -224,7 +224,7 @@
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [dai-shi/will-this-react-global-state-work-in-concurrent-rendering](https://github.com/dai-shi/will-this-react-global-state-work-in-concurrent-rendering) - Test tearing and branching in React concurrent rendering
 - [trotto/browser-extension](https://github.com/trotto/browser-extension) - A browser extension that makes the "go/" hostname work for any go links implementation. Built for easy self-hosting.
-- [rustq/colorid.js](https://github.com/rustq/colorid.js) - The unique 4-colors-ID string generator in JavaScript 🌈 一款基于 4 种颜色来表示身份的 JavaScript 随机 ID 生成器
+- [meloalright/colorid.js](https://github.com/meloalright/colorid.js) - The unique 4-colors-ID string generator in JavaScript 🌈 一款基于 4 种颜色来表示身份的 JavaScript 随机 ID 生成器
 - [tanhauhau/mini-svelte](https://github.com/tanhauhau/mini-svelte) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.

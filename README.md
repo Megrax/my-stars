@@ -909,7 +909,7 @@
 - [unix/views](https://github.com/unix/views) - show your page views without server.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching

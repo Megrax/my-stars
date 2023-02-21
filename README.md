@@ -171,7 +171,7 @@
 - [pazams/go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) - A comparison between Go and Javascript
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [airingursb/canvas](https://github.com/airingursb/canvas) - 🖌《Canvas：Draw on the Web》
-- [markmead/hyperui](https://github.com/markmead/hyperui) - 🚀 [FREE] Tailwind CSS components for marketing, e-commerce and application UI with support for dark mode, Alpine JS and RTL direction ✨
+- [markmead/hyperui](https://github.com/markmead/hyperui) - 🚀 [FREE] Tailwind CSS components for marketing, e-commerce and application UI with optional support for Alpine JS, RTL and dark mode
 - [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
@@ -412,6 +412,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [RealPeha/This-Repo-Has-1766-Stars](https://github.com/RealPeha/This-Repo-Has-1766-Stars) - Yes, it's true :purple_heart:
+- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
@@ -531,7 +532,6 @@
 - [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) - :ant:前端面试复习笔记
-- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [Labraff/HDU_QuickLearner](https://github.com/Labraff/HDU_QuickLearner) - 杭电期中期末复习资料档案库
 - [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - 
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
@@ -940,7 +940,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
-- [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React/Vue2/Vue3 on Earth that implemented serverless-side render specification.
+- [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [windicss/svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - A Svelte Preprocessor to compile windicss at build time.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.

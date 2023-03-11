@@ -644,7 +644,7 @@
 - [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -887,7 +887,7 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [react-native-checkbox/react-native-checkbox](https://github.com/react-native-checkbox/react-native-checkbox) - Checkbox component for React Native
 - [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
-- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and all console programs.
+- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and more.
 - [chinese-chess-everywhere/type-chess](https://github.com/chinese-chess-everywhere/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design

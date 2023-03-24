@@ -531,11 +531,11 @@
 - [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) - :ant:前端面试复习笔记
-- [Labraff/HDU_QuickLearner](https://github.com/Labraff/HDU_QuickLearner) - 杭电期中期末复习资料档案库
+- [JackChanel/HDU_QuickLearner](https://github.com/JackChanel/HDU_QuickLearner) - 杭电期中期末复习资料档案库
 - [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - 
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-- [Labraff/Frontend-Collection](https://github.com/Labraff/Frontend-Collection) - web前端开发技术基本概念的一些笔记整理，可能有错误，欢迎pull和issues~如果对你有帮助，欢迎star~❤
+- [JackChanel/Frontend-Collection](https://github.com/JackChanel/Frontend-Collection) - web前端开发技术基本概念的一些笔记整理，可能有错误，欢迎pull和issues~如果对你有帮助，欢迎star~❤
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -848,7 +848,7 @@
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [hduhelp/blog.hduhelp.com](https://github.com/hduhelp/blog.hduhelp.com) - 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [samdenty/console-feed](https://github.com/samdenty/console-feed) - Captures console.log's into a React Component 🔥
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js

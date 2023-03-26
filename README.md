@@ -937,7 +937,7 @@
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [sandersn/mini-typescript](https://github.com/sandersn/mini-typescript) - A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.

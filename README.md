@@ -110,7 +110,6 @@
 ## Dart 
 
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [pcdotfan/the_big_thing](https://github.com/pcdotfan/the_big_thing) - A Days-Matter-Like app written in flutter.
 
@@ -121,6 +120,7 @@
 
 ## Go 
 
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
@@ -191,7 +191,7 @@
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
-- [fei-hdu/courses](https://github.com/fei-hdu/courses) - 课件：数字图像处理，计算机视觉，人工智能导论，机器学习，深度学习
+- [fei-aiart/courses](https://github.com/fei-aiart/courses) - 课件：数字图像处理，计算机视觉，人工智能导论，机器学习，深度学习
 - [jxnblk/colorable](https://github.com/jxnblk/colorable) - Color combination contrast tester
 - [WICG/is-input-pending](https://github.com/WICG/is-input-pending) - 
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
@@ -575,7 +575,7 @@
 - [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [LAMDA-NJU/Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1)
-- [fei-hdu/ca-gan](https://github.com/fei-hdu/ca-gan) - CA-GAN: Composition-Aided GANs, IEEE TCYB, 2020
+- [fei-aiart/ca-gan](https://github.com/fei-aiart/ca-gan) - CA-GAN: Composition-Aided GANs, IEEE TCYB, 2020
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -633,6 +633,7 @@
 - [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web

@@ -348,7 +348,6 @@
 - [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [okikio/bundlejs](https://github.com/okikio/bundlejs) - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -915,6 +914,7 @@
 - [slidevjs/slidev-vscode](https://github.com/slidevjs/slidev-vscode) - VS Code extension for Slidev
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+- [okikio/bundlejs](https://github.com/okikio/bundlejs) - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.
 - [unix/views](https://github.com/unix/views) - show your page views without server.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components

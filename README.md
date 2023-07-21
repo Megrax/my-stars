@@ -66,6 +66,7 @@
 
 ## C++ 
 
+- [advancedfx/advancedfx](https://github.com/advancedfx/advancedfx) - Half-Life Advanced Effects (HLAE) is a tool to enrich Source (mainly CS:GO) engine based movie making.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
@@ -617,7 +618,7 @@
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -743,7 +744,7 @@
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [narendrasss/NotANumber](https://github.com/narendrasss/NotANumber) - An interactive blog on computer science and web dev 💡
@@ -782,7 +783,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [Fatpandac/DocSearch](https://github.com/Fatpandac/DocSearch) - A Raycast extension
 - [bytedance/guide](https://github.com/bytedance/guide) - A new feature guide component by react 🧭
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features

@@ -605,7 +605,7 @@
 
 - [h3n4l/chatsh](https://github.com/h3n4l/chatsh) - Translate text to bash command in terminal and execute. 🚀
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [rustq/colorid-wasm](https://github.com/rustq/colorid-wasm) - The unique 4-colors-ID string generator in WASM
 - [lz1998/ricq](https://github.com/lz1998/ricq) - Rust 高性能 QQ 协议（原RS-QQ）。Linux-musl运行内存1.6MB。暂时只有手表扫码登录能用
 - [swc-project/plugins](https://github.com/swc-project/plugins) - Plugins for swc, written in rust

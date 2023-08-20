@@ -268,7 +268,7 @@
 - [samselikoff/ios-apple-music-clone](https://github.com/samselikoff/ios-apple-music-clone) - 
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) - Rust 编码规范 中文版 （非官方）
 - [pvoznyuk/react-live-clock](https://github.com/pvoznyuk/react-live-clock) - React clock with time-zones

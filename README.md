@@ -899,7 +899,7 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [react-native-checkbox/react-native-checkbox](https://github.com/react-native-checkbox/react-native-checkbox) - Checkbox component for React Native
 - [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
-- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and more.
+- [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Distributed, Docker-supported, out-of-the-box, and Lightweight control panel for Minecraft server and more.
 - [chinese-chess-everywhere/type-chess](https://github.com/chinese-chess-everywhere/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design

@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [answerdev/answer](https://github.com/answerdev/answer) - A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
@@ -451,7 +452,6 @@
 
 ## MDX 
 
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
 ## Makefile 

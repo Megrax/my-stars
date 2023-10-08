@@ -113,7 +113,7 @@
 ## EJS 
 
 - [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze) - ⛵ A responsive, modern Hexo theme
-- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
+- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 
 ## Go 
 
@@ -247,7 +247,7 @@
 - [rollup/plugins](https://github.com/rollup/plugins) - 🍣  The one-stop shop for official Rollup plugins
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
-- [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Watch Videos Together on All Platforms / 一起看视频，兼容所有平台
+- [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Browser Extension to Watch Videos Together on All Platforms / 一起看视频浏览器插件，兼容所有平台
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [ElliotNB/observable-slim](https://github.com/ElliotNB/observable-slim) - Observable Slim is a singleton that utilizes ES6 Proxies to observe changes made to an object and any nested children of that object. It is intended to assist with state management and one-way data bi
 - [crabbly/Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
@@ -687,7 +687,7 @@
 - [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
-- [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
+- [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [Masterchiefm/Aria2Dash](https://github.com/Masterchiefm/Aria2Dash) - 快速部署Aria2的脚本。具有剩余容量显示监控及显示功能。本脚本会一同安装文件管理器

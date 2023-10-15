@@ -278,7 +278,7 @@
 - [jstejada/react-typist](https://github.com/jstejada/react-typist) - Typing animations with React
 - [sindresorhus/p-wait-for](https://github.com/sindresorhus/p-wait-for) - Wait for a condition to be true
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [preactjs/compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
@@ -964,7 +964,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [thoughtspile/grafar](https://github.com/thoughtspile/grafar) - Reactive multidimensional math & data visualization for the web.
-- [akirarika/milkio](https://github.com/akirarika/milkio) - 
+- [southern-aurora/milkio](https://github.com/southern-aurora/milkio) - 
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes

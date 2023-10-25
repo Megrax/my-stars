@@ -216,6 +216,7 @@
 
 ## JavaScript 
 
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
@@ -656,7 +657,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell

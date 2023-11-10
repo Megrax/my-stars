@@ -769,7 +769,7 @@
 - [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
 - [bytebase/devjoy](https://github.com/bytebase/devjoy) - devjoy.org website
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [sanyuan0704/island.js](https://github.com/sanyuan0704/island.js) - 📝 Vite & MDX powered static site generator. Base on islands architecture
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript

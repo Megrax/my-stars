@@ -149,7 +149,7 @@
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [wuhan005/mebeats](https://github.com/wuhan005/mebeats) - 💓 小米手环实时心率数据采集 - Your Soul, Your Beats!

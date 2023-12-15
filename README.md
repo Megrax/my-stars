@@ -343,7 +343,6 @@
 - [LionC/persistent-cache](https://github.com/LionC/persistent-cache) - Simple persistent cache for Node to store arbitrary data. Can also be used as a very simple data storage.
 - [dependency-check-team/dependency-check](https://github.com/dependency-check-team/dependency-check) - checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
-- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [lawnstarter/react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select) - 🔽 A Picker component for React Native which emulates the native &lt;select&gt; interfaces for iOS and Android
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
@@ -422,7 +421,7 @@
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [RealPeha/This-Repo-Has-1754-Stars](https://github.com/RealPeha/This-Repo-Has-1754-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
@@ -462,6 +461,7 @@
 
 ## MDX 
 
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
 ## Makefile 
@@ -751,6 +751,7 @@
 
 ## TypeScript 
 
+- [joaomoreno/gifcap](https://github.com/joaomoreno/gifcap) - Capture your screen to a GIF in your browser
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
@@ -791,7 +792,7 @@
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
-- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 50,000 supported emoji mashups as part of Google's Emoji Kitche
 - [segmentio/analytics-next](https://github.com/segmentio/analytics-next) - Segment Analytics.js 2.0
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [Fatpandac/DocSearch](https://github.com/Fatpandac/DocSearch) - A Raycast extension to link DocSearch and Meilisearch.

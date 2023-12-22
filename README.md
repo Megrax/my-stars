@@ -192,7 +192,7 @@
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
-- [fei-aiart/courses](https://github.com/fei-aiart/courses) - 课件：数字图像处理，计算机视觉，人工智能导论，机器学习，深度学习
+- [fei-aiart/courses](https://github.com/fei-aiart/courses) - 课件：数字图像处理，计算机视觉，机器学习，深度学习
 - [jxnblk/colorable](https://github.com/jxnblk/colorable) - Color combination contrast tester
 - [WICG/is-input-pending](https://github.com/WICG/is-input-pending) - 
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
@@ -864,7 +864,7 @@
 - [splinetool/react-spline](https://github.com/splinetool/react-spline) - React component for Spline scenes.
 - [bytedance/syllepsis](https://github.com/bytedance/syllepsis) - Syllepsis is an out-of-the-box rich text editor.
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project
-- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [antfu/handle](https://github.com/antfu/handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine

@@ -76,6 +76,7 @@
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -216,7 +217,6 @@
 - [MozillaReality/FirefoxReality](https://github.com/MozillaReality/FirefoxReality) - A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
 - [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [skb1129/react-native-change-icon](https://github.com/skb1129/react-native-change-icon) - Change your application icon programmatically for React Native apps
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [yanus171/Handy-News-Reader](https://github.com/yanus171/Handy-News-Reader) - Handy News Reader is a light and modern Android feed reader, based on Flym News Reader
 
 ## JavaScript 

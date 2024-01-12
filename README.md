@@ -783,7 +783,7 @@
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [microsoft/powerbi-client-vue-js](https://github.com/microsoft/powerbi-client-vue-js) - Power BI Vue.js component. This library lets you embed Power BI report, dashboard, dashboard tile, report visual, or Q&A in your Vue.js application.
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
@@ -804,7 +804,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React 70% faster in minutes ▶️ npx million@latest
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
 - [mattreid1/baojs](https://github.com/mattreid1/baojs) - ⚡️ A fast, minimalist web framework for the Bun JavaScript runtime
@@ -963,7 +963,7 @@
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [windicss/svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - A Svelte Preprocessor to compile windicss at build time.

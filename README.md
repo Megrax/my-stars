@@ -223,6 +223,7 @@
 
 ## JavaScript 
 
+- [wesm/feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
 - [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash

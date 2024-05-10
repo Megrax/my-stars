@@ -194,7 +194,7 @@
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
-- [fei-aiart/courses](https://github.com/fei-aiart/courses) - 课件：数字图像处理，计算机视觉，机器学习，深度学习
+- [fei-aiart/courses](https://github.com/fei-aiart/courses) - 课件：数字图像处理，深度学习，计算机视觉，机器学习
 - [jxnblk/colorable](https://github.com/jxnblk/colorable) - Color combination contrast tester
 - [WICG/is-input-pending](https://github.com/WICG/is-input-pending) - 
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications

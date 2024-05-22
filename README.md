@@ -222,6 +222,7 @@
 
 ## JavaScript 
 
+- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [wesm/feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
 - [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.

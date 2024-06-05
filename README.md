@@ -1018,6 +1018,7 @@
 
 ## Vue 
 
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS

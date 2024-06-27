@@ -87,6 +87,7 @@
 
 ## CSS 
 
+- [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [MarketingPipeline/Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag

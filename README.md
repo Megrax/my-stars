@@ -282,7 +282,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [ElliotNB/observable-slim](https://github.com/ElliotNB/observable-slim) - Observable Slim is a singleton that utilizes ES6 Proxies to observe changes made to an object and any nested children of that object. It is intended to assist with state management and one-way data bi
 - [crabbly/Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [GoogleChromeLabs/estimator.dev](https://github.com/GoogleChromeLabs/estimator.dev) - 🧮 Calculate the size and performance impact of switching to modern JavaScript syntax.
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
@@ -354,7 +354,7 @@
 - [Intellicode/eslint-plugin-react-native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native plugin for ESLint
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [buuing/right-menu](https://github.com/buuing/right-menu) - 📜 @right-menu 是一个使用 TypeScript 开发的右键菜单插件, 🏆 可以在 JS / TS / Vue / React 等多端框架使用, 🦄 支持多级菜单 / 异步渲染 / 骨架Loading / 自适应主题 / mac黑夜模式
-- [Xav1erSue/Newjw_HDU_AutoChoose](https://github.com/Xav1erSue/Newjw_HDU_AutoChoose) - 杭电新版教务系统自动学评教 油猴脚本
+- [Xav1erSue/NewjwHDUAutoChoose](https://github.com/Xav1erSue/NewjwHDUAutoChoose) - 杭电新版教务系统自动学评教 油猴脚本
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 - [LionC/persistent-cache](https://github.com/LionC/persistent-cache) - Simple persistent cache for Node to store arbitrary data. Can also be used as a very simple data storage.

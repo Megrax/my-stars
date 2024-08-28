@@ -541,7 +541,7 @@
 - [zTrix/sata-license](https://github.com/zTrix/sata-license) - The Star And Thank Author License(SATA License)
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
-- [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 - [songhn233/posts-archive](https://github.com/songhn233/posts-archive) - 📚 All my posts archive

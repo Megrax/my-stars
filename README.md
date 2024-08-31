@@ -125,7 +125,6 @@
 ## EJS 
 
 - [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze) - ⛵ A responsive, modern Hexo theme
-- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 
 ## GLSL 
 

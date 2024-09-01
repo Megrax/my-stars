@@ -176,6 +176,7 @@
 
 ## HTML 
 
+- [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 - [rudrodip/theme-toggle-effect](https://github.com/rudrodip/theme-toggle-effect) - theme toggle effect using view transitions api
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.

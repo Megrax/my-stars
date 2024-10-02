@@ -481,7 +481,6 @@
 
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
 ## Makefile 
 
@@ -1003,6 +1002,7 @@
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
 - [avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - A convenient wrapper for sweetalert2.
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [chromaui/chromatic-cli](https://github.com/chromaui/chromatic-cli) - Chromatic CLI: `npx chromatic`
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers

@@ -876,7 +876,6 @@
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
-- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [devsapp/fc](https://github.com/devsapp/fc) - 阿里云函数计算（FC）组件
 - [justjavac/chart_as_a_service](https://github.com/justjavac/chart_as_a_service) - Chart as a Service
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)

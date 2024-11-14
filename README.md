@@ -225,7 +225,7 @@
 
 - [InvoluteHell/ThreeKeysProgramming](https://github.com/InvoluteHell/ThreeKeysProgramming) - 三键成码 | Three Keys code dancing
 - [pascal-lab/Tai-e-assignments](https://github.com/pascal-lab/Tai-e-assignments) - Tai-e assignments for static program analysis
-- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
+- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 后端程序员应该掌握的主流数据库知识
 - [soot-oss/soot](https://github.com/soot-oss/soot) - Soot - A Java optimization framework
 - [lyrric/seckill](https://github.com/lyrric/seckill) - 苗苗 约苗 九价 秒杀 脚本
 - [MozillaReality/FirefoxReality](https://github.com/MozillaReality/FirefoxReality) - INACTIVE - A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
@@ -1047,7 +1047,7 @@
 - [advplyr/ett-charts](https://github.com/advplyr/ett-charts) - Eleven VR Table Tennis dashboard
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [MCSManager/UI](https://github.com/MCSManager/UI) - Provides a Web UI for MCSManager to display data, terminals, tables, i18n, settings, and more.
+- [MCSManager/UI](https://github.com/MCSManager/UI) - Provides a Web UI for MCSManager 9.X to display data, terminals, tables, i18n, settings, and more.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.

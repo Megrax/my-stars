@@ -874,6 +874,7 @@
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
 - [devsapp/fc](https://github.com/devsapp/fc) - 阿里云函数计算（FC）组件
 - [justjavac/chart_as_a_service](https://github.com/justjavac/chart_as_a_service) - Chart as a Service
